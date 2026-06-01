@@ -1,0 +1,15 @@
+technologie:
+tkinter
+json
+
+strony:
+w3s: https://www.w3schools.com/
+g4g: https://www.geeksforgeeks.org/
+stack overflow: https://stackoverflow.com/questions
+etc.
+
+Jak uzywac:
+Wpisujemy nazwe zadania i klikamy przycisk "dodaj zadanie"
+Możemy usunąć zadanie przyciskiem usun oraz zaznaczać czy jest zrobione czy nie
+Aby odpalić timer klikamy przycisk "timer" a następnie start/stop
+Stan aplikacji zapisuje się w pliku data.json
